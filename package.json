@@ -243,11 +243,11 @@
     "debug": "npm run compile:debug && cargo build && node ./tasks.cjs build --profile debug"
   },
   "devDependencies": {
-    "@types/node": "^26.1.1",
-    "@types/vscode": "^1.125.0",
-    "@vscode/vsce": "^4.0.0",
+    "@types/node": "^26.6.6",
+    "@types/vscode": "^1.145.0",
+    "@vscode/vsce": "^4.1.0",
     "typescript": "^7.0.2",
-    "vite": "^8.3.5",
+    "vite": "^8.3.6",
     "vscode-languageclient": "^11.0.0"
   }
 }
